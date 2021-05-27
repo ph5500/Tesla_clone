@@ -23,6 +23,8 @@ function App() {
           backgroundImg={SolarPanels}
           leftBtnTxt="ORDER NOW"
           leftBtnLink=""
+          rightBtnTxt="LEARN MORE"
+          rightBtnLink=""
           twoButtons="true"
           first
         />
@@ -33,7 +35,7 @@ function App() {
           backgroundImg={ModelS}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTx="LEARN MORE"
+          rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -44,7 +46,7 @@ function App() {
           backgroundImg={Model3}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTx="LEARN MORE"
+          rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -55,7 +57,7 @@ function App() {
           backgroundImg={ModelX}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTx="LEARN MORE"
+          rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
         />
@@ -66,7 +68,7 @@ function App() {
           backgroundImg={ModelY}
           leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTx="LEARN MORE"
+          rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
         />
