@@ -2,6 +2,7 @@ import React from "react";
 import Button from "./Button";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import "../Item.css";
+import "../Button.css";
 const Item = ({
   title,
   desc,
@@ -23,7 +24,7 @@ const Item = ({
         </div>
         <div className=".item_lower_third">
           <div className="item-buttons">
-            <Button imp="primary" text={leftBtnLink} link={leftBtnLink} />
+            <Button imp="primary" text={leftBtnTxt} link={leftBtnLink} />
             {twoButtons && (
               <Button imp="secondary" text={rightBtnTxt} link={rightBtnLink} />
             )}
